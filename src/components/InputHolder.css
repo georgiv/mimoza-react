@@ -1,0 +1,25 @@
+.input-holder {
+    text-align: center
+}
+
+.input-holder > div {
+    display: inline-block;
+    width: 40%;
+    border-bottom: 1px solid gainsboro
+}
+
+.input-holder > div > input {
+    width: 100%
+}
+
+.err-holder {
+    text-align: center
+}
+
+.err-holder > p {
+    text-align: left;
+    display: inline-block;
+    width: 40%;
+    color: white;
+    font-size: 13px
+}
